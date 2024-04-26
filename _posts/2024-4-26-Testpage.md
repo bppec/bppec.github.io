@@ -25,11 +25,11 @@ tags:
     <script type="text/javascript">
     var gitalk = new Gitalk({
     // gitalk的主要参数
-        clientID: `{2995cc9e8a8941cd62c2}`,
-        clientSecret: `{33036a899b9b0bd9237428e166147a12cb3f7802}`,
-        repo: `{bppec.github.io}`,
-        owner: '{bppec}',
-        admin: ['{bppec}'],
+        clientID: `2995cc9e8a8941cd62c2`,
+        clientSecret: `33036a899b9b0bd9237428e166147a12cb3f7802`,
+        repo: `bppec.github.io`,
+        owner: 'bppec',
+        admin: ['bppec'],
         id: 'Testpage',
     });
     gitalk.render('gitalk-container');
