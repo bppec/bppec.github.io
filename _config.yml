@@ -6,7 +6,7 @@ email: wang9940@proton.me
 description: "那些在暗处执拗生长的花，终有一日会馥郁传香"
 keyword: "blog，计算机，C++，Java，算法"
 url: "https://bppec.github.io"          # your host, for absolute URL
-baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/bppec/bppec.github.io.git" # you code repository
 
 # Sidebar settings
