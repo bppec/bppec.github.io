@@ -2,11 +2,11 @@
 title: H'blog
 SEOTitle: H'blog
 header-img: img/post-bg-desk.jpg
-email: klovien@gmail.com
+email: wang9940@proton.me
 description: "那些在暗处执拗生长的花，终有一日会馥郁传香"
-keyword: "人工语言, 国际语, 世界语, 三叶草国际语, 三叶语"
+keyword: "blog，计算机，C++，Java，算法"
 url: "https://bppec.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/blog"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/bppec/bppec.github.io.git" # you code repository
 
 # Sidebar settings
@@ -17,10 +17,10 @@ sidebar-avatar: /img/about-someone.jpg      # use absolute URL, seeing it's used
 
 
 # SNS settings
-RSS: false
-# weibo_username:     qiubaiying
-# zhihu_username:     qiubaiying
-# github_username:    qiubaiying
+RSS: true
+weibo_username:     qiubaiying
+zhihu_username:     qiubaiying
+github_username:    qiubaiying
 # facebook_username:  baiying.qiu.7
 # jianshu_username:   e71990ada2fd
 # twitter_username:   qiubaiying
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: d18b343dd9c7ca49518a                            #生成的clientID
   clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  repo: bppec.github.io    #仓库名称
+  owner: bppec    #github用户名
+  admin: bppec
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -90,7 +90,7 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 
 
 
-# Progressive Web Apps
+## Featured Tags
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
@@ -99,13 +99,10 @@ service-worker: true
 # 友情链接，请尽量不要删除，谢谢！
 friends: [
     {
-        title: "星球国际语",
-        href: "https://globien.gitee.io"
+        title: "hao-blog",
+        href: "http://8.130.102.38/wp-blog/"
     },{
-        title: "星球语互动社区",
-        href: "https://tieba.baidu.com/f?kw=%E6%A0%BC%E7%BD%97%E6%AF%94%E8%A8%80&fr=home"
-    },{
-        title: "知乎：人造国际语",
-        href: "https://zhuanlan.zhihu.com/Artificial-International-Language"
+        title: "blog",
+        href: "https://bppec.github.io"
     }
 ]
